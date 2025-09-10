@@ -1,4 +1,4 @@
-[cars.csv](https://github.com/user-attachments/files/22256262/cars.csv)`ECE2112: Advanced Computer Programming and Algorithms`
+`ECE2112: Advanced Computer Programming and Algorithms`
 ## EXPERIMENT 2: NUMERICAL PHYTON (NUMPY)
 
 ### I. Intended Learning Outcomes:
@@ -20,3 +20,5 @@ Using knowledge obtained from the experiment and demonstrations:
 
 a. Load the corresponding .csv file into a data frame named cars using pandas
 b. Display the first five and last five rows of the resulting cars
+
+
